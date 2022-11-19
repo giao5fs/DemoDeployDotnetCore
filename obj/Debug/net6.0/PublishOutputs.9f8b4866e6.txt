@@ -1,0 +1,7 @@
+D:\DeployScripts\DemoDeployDotnetCore\bin\Debug\net6.0\publish\DemoDeployDotnetCore.exe
+D:\DeployScripts\DemoDeployDotnetCore\bin\Debug\net6.0\publish\appsettings.Development.json
+D:\DeployScripts\DemoDeployDotnetCore\bin\Debug\net6.0\publish\appsettings.json
+D:\DeployScripts\DemoDeployDotnetCore\bin\Debug\net6.0\publish\DemoDeployDotnetCore.dll
+D:\DeployScripts\DemoDeployDotnetCore\bin\Debug\net6.0\publish\DemoDeployDotnetCore.deps.json
+D:\DeployScripts\DemoDeployDotnetCore\bin\Debug\net6.0\publish\DemoDeployDotnetCore.runtimeconfig.json
+D:\DeployScripts\DemoDeployDotnetCore\bin\Debug\net6.0\publish\DemoDeployDotnetCore.pdb
