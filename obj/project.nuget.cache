@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "H0aI6tkE0Fqik+u7mkxymHhHVKE0lKfwYX7zO6pF3TWxTnZkBcfAbwTl8LYYmhii7c9CNeZrrdWT8v1GNqgiag==",
+  "dgSpecHash": "y4KUCTF7QBMpP3Xm8A7EmDDQpC1pQiObSeXi5Che5P4/mj84vu4lnmJrqBtnQrGAqz947A9y4X/+FQ4TF76COQ==",
   "success": true,
-  "projectFilePath": "D:\\DeployScripts\\DemoDeployDotnetCore\\DemoDeployDotnetCore.csproj",
+  "projectFilePath": "C:\\Users\\giao5\\Desktop\\code\\DemoDeployDotnetCore\\DemoDeployDotnetCore.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

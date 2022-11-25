@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DeployScripts\\DemoDeployDotnetCore\\DemoDeployDotnetCore.csproj": {}
+    "C:\\Users\\giao5\\Desktop\\code\\DemoDeployDotnetCore\\DemoDeployDotnetCore.csproj": {}
   },
   "projects": {
-    "D:\\DeployScripts\\DemoDeployDotnetCore\\DemoDeployDotnetCore.csproj": {
+    "C:\\Users\\giao5\\Desktop\\code\\DemoDeployDotnetCore\\DemoDeployDotnetCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DeployScripts\\DemoDeployDotnetCore\\DemoDeployDotnetCore.csproj",
+        "projectUniqueName": "C:\\Users\\giao5\\Desktop\\code\\DemoDeployDotnetCore\\DemoDeployDotnetCore.csproj",
         "projectName": "DemoDeployDotnetCore",
-        "projectPath": "D:\\DeployScripts\\DemoDeployDotnetCore\\DemoDeployDotnetCore.csproj",
-        "packagesPath": "C:\\Users\\giaonx\\.nuget\\packages\\",
-        "outputPath": "D:\\DeployScripts\\DemoDeployDotnetCore\\obj\\",
+        "projectPath": "C:\\Users\\giao5\\Desktop\\code\\DemoDeployDotnetCore\\DemoDeployDotnetCore.csproj",
+        "packagesPath": "C:\\Users\\giao5\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\giao5\\Desktop\\code\\DemoDeployDotnetCore\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\giaonx\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\giao5\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,8 +25,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.removethebackground.com/nuget/": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
@@ -46,7 +48,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -58,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
